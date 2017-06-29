@@ -4,12 +4,16 @@ body{
 	background-color: #e8e8e8;
 }
 nav{
-	background-color: #ffbb00;
+	background-color: #651fff;
 	height: 100px;
 	align-items: center;
 }
 #h1-nav{
-	color: black;
+	color:#b2ebf2;
+}
+hr{
+	background-color: #81d4fa;
+	height: 2px;
 }
 #contenedor{
 	background-color: white;
