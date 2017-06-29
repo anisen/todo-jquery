@@ -10,10 +10,14 @@ nav{
 }
 #h1-nav{
 	color:#b2ebf2;
+	padding-bottom: 10px;
 }
 hr{
 	background-color: #81d4fa;
 	height: 2px;
+}
+#inputt{
+  color: #004d40;
 }
 #contenedor{
 	background-color: white;
@@ -23,6 +27,7 @@ hr{
 	background-color: #40c4ff;
 	margin-top: 10px;
 	border-style: none;
-	padding:5px;
+	padding:10px;
+	width: 100px;
 	margin-left: 20px;
 }
